@@ -1,0 +1,4 @@
+.{
+    .name = "icu",
+    .version = "74.0.0", // The version should be the same as underlying ICU4C.
+}
