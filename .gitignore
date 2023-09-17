@@ -291,3 +291,7 @@ icu4c/build_qnx/nto-x86_64-o/*
 icu4c/build_qnx/linux-x86_64-o/Makefile
 icu4c/build_qnx/nto-aarch64-le/Makefile
 icu4c/build_qnx/nto-x86_64-o/Makefile
+
+# For Zig build system
+zig-cache
+zig-out
